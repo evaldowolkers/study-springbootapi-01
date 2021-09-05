@@ -57,7 +57,7 @@ Enviando solicitações com cURL
 Tests
 ---
 
-Testes também são fornecidos para cada operação, localizada no [SpringBootApiDemoApplicationTests.java](https://github.com/evaldowolkers/study-springbootapi-01/blob/main/src/test/java/com/example/springbootapidemo/SpringBootApiDemoApplicationTests.java) file.
+Testes também são fornecidos para cada operação, localizado no [SpringBootApiDemoApplicationTests.java](https://github.com/evaldowolkers/study-springbootapi-01/blob/main/src/test/java/com/example/springbootapidemo/SpringBootApiDemoApplicationTests.java) file.
 
 Por padrão, todos os testes são executados quando o código é construído com Maven (ou seja, `./mvnw clean package`). Você também pode executar os testes independentemente com `./mvnw test`.
 
